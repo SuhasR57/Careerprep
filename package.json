@@ -1,5 +1,5 @@
 {
-  "homepage": "https://suhaasr57.github.io/Careerprep/",
+  "homepage": "https://suhasr57.github.io/Careerprep/",
   "name": "careerprep",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build && next export",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "deploy": "main -d out"
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",

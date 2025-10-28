@@ -21,7 +21,8 @@ CareerPrep is a comprehensive web application designed to empower students and a
 ![home page](image.png)
 
 ## video demo
-<video controls src="20251028-1623-37.8025479.mp4" title="webpage UI"></video>
+
+![webpage ui](20251028-1623-37.8025479.mp4)
 
 ## To run project
 

@@ -17,6 +17,10 @@ CareerPrep is a comprehensive web application designed to empower students and a
 - shadcn/ui components
 - Google Generative AI (for project idea generation)
 
+## careerprep webpage screenshots
+![home page](image.png)
+<video controls src="20251028-1623-37.8025479.mp4" title="webpage UI"></video>
+
 ## To run project
 
 npm run dev

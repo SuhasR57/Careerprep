@@ -5,25 +5,25 @@ const codingPlatforms = [
     {
         name: "LeetCode",
         url: "https://leetcode.com/",
-        logo: "/leetcode-logo.png",
+        logo: "leetcode-logo.png",
         description: "Enhance your coding skills with algorithmic challenges"
     },
     {
         name: "HackerRank",
         url: "https://www.hackerrank.com/",
-        logo: "/hackerrank.jpeg",
+        logo: "hackerrank.jpeg",
         description: "Practice coding, prepare for interviews, and get hired"
     },
     {
         name: "CodeChef",
         url: "https://www.codechef.com/",
-        logo: "/codechef.jpeg",
+        logo: "codechef.jpeg",
         description: "Participate in coding contests and improve your skills"
     },
     {
         name: "Codeforces",
         url: "https://codeforces.com/",
-        logo: "/codeforces.png",
+        logo: "codeforces.png",
         description: "Compete in programming contests and solve complex problems"
     },
 ]

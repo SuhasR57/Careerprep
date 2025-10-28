@@ -5,37 +5,37 @@ const educationalWebsites = [
     {
         name: "GeeksforGeeks",
         url: "https://www.geeksforgeeks.org/",
-        logo: "/gfg.png",
+        logo: "gfg.png",
         description: "A computer science portal for geeks with a wide range of resources"
     },
     {
         name: "JavaTpoint",
         url: "https://www.javatpoint.com/",
-        logo: "/javatpoint.png",
+        logo: "javatpoint.png",
         description: "The Best Portal to Learn Technologies with simple and easy tutorials"
     },
     {
         name: "W3Schools",
         url: "https://www.w3schools.com/",
-        logo: "/w3schools.png",
+        logo: "w3schools.png",
         description: "The world's largest web developer site with tutorials and references"
     },
     {
         name: "TutorialsPoint",
         url: "https://www.tutorialspoint.com/",
-        logo: "/tutorialspoint.png",
+        logo: "tutorialspoint.png",
         description: "Learn new skills with a wide variety of online tutorials"
     },
     {
         name: "Programiz",
         url: "https://www.programiz.com/",
-        logo: "/programiz.png",
+        logo: "programiz.png",
         description: "Learn to code with free tutorials, examples, and references"
     },
     {
         name: "HackerEarth",
         url: "https://www.hackerearth.com/",
-        logo: "/hackerearth.png",
+        logo: "hackerearth.png",
         description: "Improve your coding skills, practice programming, and participate in coding competitions"
     },
 ]

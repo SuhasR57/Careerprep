@@ -7,7 +7,7 @@ export async function POST(req: Request) {
     try {
         const { academicBackground, technicalSkills, interests } = await req.json()
 
-        const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+        const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
 
         const prompt = `Based on the following information, suggest 2-3 project ideas that align with current market trends:
 
